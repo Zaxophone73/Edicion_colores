@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="support-core-utils-25.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/bed2ad07f0cec5df6c9c6d5f74ac4e4fb2ecef9d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/bed2ad07f0cec5df6c9c6d5f74ac4e4fb2ecef9d/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../Zeitek/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-core-utils/25.3.1/support-core-utils-25.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
